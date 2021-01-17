@@ -272,7 +272,7 @@ nav .navbar-nav .menu__link i {
   color: #2E2D35;
   margin-bottom: 50px;
 }
-@media (max-width: 1024px) {
+@media (max-width: 1366px) {
   .about__title {
     text-align: center;
   }
@@ -372,6 +372,12 @@ nav .navbar-nav .menu__link i {
   line-height: 45px;
   color: #ffffff;
   padding: 70px 0 70px 70px;
+}
+@media (max-width: 768px) {
+  .banner__text {
+    width: 100%;
+    padding: 70px 0 70px 40px;
+  }
 }
 @media (max-width: 520px) {
   .banner__text {
