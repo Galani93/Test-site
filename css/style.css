@@ -408,7 +408,6 @@ nav .navbar-nav .menu__link i {
 .banner__btn .btn {
   padding: 16px 60px;
   width: 222px;
-  height: 50px;
   background: #F25B24;
   border-radius: 4px;
   font-family: Whitney, sans-serif;
@@ -442,7 +441,6 @@ nav .navbar-nav .menu__link i {
 }
 .modal button.btn {
   width: 370px;
-  height: 50px;
   background: #F25B24;
   border-radius: 4px;
   font-family: Whitney, sans-serif;
@@ -533,6 +531,7 @@ nav .navbar-nav .menu__link i {
 .form-control {
   width: 370px;
   height: 50px;
+  font-family: Whitney, sans-serif;
   background: #FFFFFF;
   border: 1px solid #DDDAE7;
   box-sizing: border-box;
