@@ -449,7 +449,6 @@ nav {
 .banner__btn .btn {
   padding: 16px 60px;
   width: 222px;
-  height: 50px;
   background: $color-1;
   border-radius: 4px;
   font-family: $font-1;
@@ -486,7 +485,6 @@ nav {
 
   button.btn {
     width: 370px;
-    height: 50px;
     background: $color-1;
     border-radius: 4px;
     font-family: $font-1;
@@ -578,6 +576,7 @@ nav {
 .form-control {
   width: 370px;
   height: 50px;
+  font-family: $font-1;
   background: #FFFFFF;
   border: 1px solid #DDDAE7;
   box-sizing: border-box;
